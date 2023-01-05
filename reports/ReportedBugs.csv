@@ -1,0 +1,265 @@
+﻿"Issue Id","Project","Tags","Summary","Reporter","Created","Updated","Resolved","Priority","Type","State","Assignee","Sprints","Story points","Environment","QASE TC # (only for bug)","Description","Votes"
+"G21-201","group2.1","","Statistics: Completed tasks are not displayed when taping on 'Statistics' from the dropdown Hamburger Menu","natkona123","30 Dec 2022","30 Dec 2022",,"Minor","Bug","Open","Unassigned","Unscheduled",,"Android 10 Android Studio Dolphin | 2021.3.1 Patch 1 Windows 11 Home 22H2 64-bit","No no qase tc # (only for bug)","**STR:**
+
+1. Launch the application TO-DO-MVP;
+2. Create a task and mark the tasks that are completed
+3. Tap on the 'Statistics' from the dropdown Hamburger Menu
+
+**Actual Result:** Completed tasks are not displayed when taping on 'Statistics' from the dropdown Hamburger Menu
+
+**Expected Result:** Completed tasks are displayed when taping on 'Statistics' from the dropdown Hamburger Menu","0"
+"G21-183","group2.1","","Mobile App Testing Natallia Kuzmiankova","natkona123","30 Dec 2022","30 Dec 2022",,"Normal","Task","Open","Unassigned","Unscheduled",,"No environment","No no qase tc # (only for bug)",,"0"
+"G21-200","group2.1","","New TO-DO: Entering Emoji in the 'Title' field a new task is not created after by taping the floating ""✓"" action button","natkona123","30 Dec 2022","30 Dec 2022",,"Normal","Task","Open","Unassigned","Unscheduled",,"Android 10 Android Studio Dolphin | 2021.3.1 Patch 1 Windows 11 Home 22H2 64-bit","No no qase tc # (only for bug)","**STR:**
+
+1. Launch the application TO-DO-MVP;
+2. Tap on the floating action button '+' at the bottom of the screen
+3. Enter a value in the 'Title' field consisting of Emoji
+4. Tap on the floating action button '✓' at the bottom of the screen
+
+**Actual Result:** Entering Emoji in the 'Title' field a new task is not created after by taping the floating ""✓"" action button
+
+**Expected Result:** Entering Emoji in the ""Name"" field is allowed. The new task with the entered Emoji is saved after by taping the floating ""✓"" action button","0"
+"G21-199","group2.1","","New TO-DO: Entering special characters in the 'Title' field a new task is not created after by taping the floating ""✓"" action button","natkona123","30 Dec 2022","30 Dec 2022",,"Normal","Task","Open","Unassigned","Unscheduled",,"Android 10 Android Studio Dolphin | 2021.3.1 Patch 1 Windows 11 Home 22H2 64-bit","No no qase tc # (only for bug)","**STR:**
+
+1. Launch the application TO-DO-MVP;
+2. Tap on the floating action button '+' at the bottom of the screen
+3. Enter a value in the 'Title' field consisting of special characters
+4. Tap on the floating action button '✓' at the bottom of the screen
+
+**Actual Result:** Entering special characters in the 'Title' field a new task is not created after by taping the floating ""✓"" action button
+
+**Expected Result:** Entering special characters in the ""Name"" field is allowed. The new task with the entered special characters is saved after by taping the floating ""✓"" action button","0"
+"G21-198","group2.1","","New TO-DO: Entering numbers in the 'Title' field a new task is not created after by taping the floating ""✓"" action button","natkona123","30 Dec 2022","30 Dec 2022",,"Normal","Task","Open","Unassigned","Unscheduled",,"Android 10 Android Studio Dolphin | 2021.3.1 Patch 1 Windows 11 Home 22H2 64-bit","No no qase tc # (only for bug)","**STR:**
+
+1. Launch the application TO-DO-MVP;
+2. Tap on the floating action button '+' at the bottom of the screen
+3. Enter a value in the 'Title' field consisting of numbers
+4. Tap on the floating action button '✓' at the bottom of the screen
+
+**Actual Result:** Entering numbers in the 'Title' field a new task is not created after by taping the floating ""✓"" action button
+
+**Expected Result:** Entering numbers in the ""Name"" field is allowed. The new task with the entered numbers is saved after by taping the floating ""✓"" action button","0"
+"G21-196","group2.1","","Edit TO-DO: Edited task is not saved after  taping the floating action button ""✓""","natkona123","30 Dec 2022","30 Dec 2022",,"Normal","Bug","Open","Unassigned","Unscheduled",,"Android 10 Android Studio Dolphin | 2021.3.1 Patch 1 Windows 11 Home 22H2 64-bit","No no qase tc # (only for bug)","**STR:**
+
+1. Launch the application TO-DO-MVP;
+2. Tap on a previously created task
+3. Tap on the floating action button ""🖍"" at the bottom of the screen
+4. Make the necessary changes to the task
+5. Tap on the floating action button ""✓"" at the bottom of the screen
+
+**Actual Result:** Edited task is not saved after  taping the floating action button ""✓""
+
+**Expected Result:** Edited task is saved after  taping the floating action button ""✓""","0"
+"G21-197","group2.1","","TO-DO List: Application crashes when taping on 'refresh' from the dropdown Kebab Menu","natkona123","30 Dec 2022","30 Dec 2022",,"Critical","Bug","Open","Unassigned","Unscheduled",,"Android 10 Android Studio Dolphin | 2021.3.1 Patch 1 Windows 11 Home 22H2 64-bit","No no qase tc # (only for bug)","**STR:**
+
+1. Launch the application TO-DO-MVP;
+2. Create a task. The task is displayed in TO-DO List
+3. Tap on the 'refresh' from the dropdown Kebab Menu
+
+**Actual Result:** Application crashes when taping on 'refresh' from the dropdown Kebab Menu
+
+**Expected Result:** The page refreshes when taping on 'refresh' from the dropdown Kebab Menu","0"
+"G21-195","group2.1","","Edit TO-DO: Typo in title 'Edite TO-DO' when editing a TO-DO by taping the floating action button ""🖍""","natkona123","30 Dec 2022","30 Dec 2022",,"Minor","Bug","Open","Unassigned","Unscheduled",,"Android 10 Android Studio Dolphin | 2021.3.1 Patch 1 Windows 11 Home 22H2 64-bit","No no qase tc # (only for bug)","**STR:**
+
+1. Launch the application TO-DO-MVP;
+2. Tap on the floating action button '+' at the bottom of the screen
+3. Enter a value in the field 'Title'
+4. Tap on the floating action button '✓' at the bottom of the screen
+5. Tap on the created task
+6. Tap on the floating action button ""🖍"" at the bottom of the screen
+
+**Actual Result:** Typo in title 'Edite TO-DO' when editing a TO-DO by taping the floating action button ""🖍"" at the bottom of the screen
+
+**Expected Result:** The typo is missing from the title ""Edit TO-DO"" when editing TO-DO by taping the floating ""🖍"" action button at the bottom of the screen.","0"
+"G21-187","group2.1","","New TO-DO: Typo in popup message ""TO-DO canot be empty"" when adding an empty TO-DO by taping the floating ""✓"" action button","natkona123","30 Dec 2022","30 Dec 2022",,"Minor","Task","Open","Unassigned","Unscheduled",,"Android 10 Android Studio Dolphin | 2021.3.1 Patch 1 Windows 11 Home 22H2 64-bit","No no qase tc # (only for bug)","**STR:**
+
+1. Launch the application TO-DO-MVP;
+2. Tap on the floating action button '+' at the bottom of the screen
+3. Leave the ""Title"" and 'Body' fields blank
+4. Tap on the floating action button '✓' at the bottom of the screen
+
+**Actual Result:** Typo in popup message ""TO-DO canot be empty"" when adding an empty TO-DO by taping the floating ""✓"" action button
+
+**Expected Result:** ""TO-DO can not be empty"" popup appears when adding an empty TO-DO by taping the ""✓"" floating action button","0"
+"G21-6","group2.1","","Testing Documentation Natallia Kuzmiankova","natkona123","28 Oct 2022","30 Dec 2022",,"Normal","Task","Open","Unassigned","Unscheduled",,"No environment","No no qase tc # (only for bug)",,"0"
+"G21-157","group2.1","","Checkout page: Error alert missing when entering numbers in 'City' field","natkona123","24 Nov 2022","24 Nov 2022",,"Normal","Bug","Open","Unassigned","Unscheduled",,"""Windows 10 Enterprise 64-bit Google Chrome 107.0.5304.63""","No no qase tc # (only for bug)","**STR:**
+
+1. Open the Checkout page <https://demowebshop.tricentis.com/onepagecheckout>
+2. Select a 'New address' from the drop-down list
+3. Enter the numbers in the 'City' field
+4. Click on the 'Continue' button
+
+**Actual Result:** Error alert missing when entering numbers in 'City' field
+
+**Expected Result:** The message 'Wrong City!' appears","0"
+"G21-155","group2.1","","Checkout page: Error alert missing when entering latin letters in 'phone number' field","natkona123","24 Nov 2022","24 Nov 2022",,"Normal","Bug","Open","Unassigned","Unscheduled",,"""Windows 10 Enterprise 64-bit Google Chrome 107.0.5304.63""","No no qase tc # (only for bug)","**STR:**
+
+1. Open the Checkout page <https://demowebshop.tricentis.com/onepagecheckout>
+2. Select a 'New address' from the drop-down list
+3. Enter the latin letters in the 'Phone number' field
+4. Click on the 'Continue' button
+
+**Actual Result:** Error alert missing when entering latin letters in 'phone number' field
+
+**Expected Result:** The message 'Wrong phone number. Please use numbers!' appears","0"
+"G21-123","group2.1","","Web App Testing Natallia Kuzmiankova","natkona123","17 Nov 2022","24 Nov 2022",,"Normal","Task","Open","Unassigned","Unscheduled",,"No environment","No no qase tc # (only for bug)",,"0"
+"G21-148","group2.1","","Shopping cart page: The shipping cost is not calculated when clicking on the 'Estimate shipping' button","natkona123","24 Nov 2022","24 Nov 2022",,"Normal","Bug","Open","Unassigned","Unscheduled",,"""Windows 10 Enterprise 64-bit Google Chrome 107.0.5304.63""","No no qase tc # (only for bug)","**STR:**
+
+1. Open the Shopping cart page <https://demowebshop.tricentis.com/cart>
+2. Select a country from the drop-down list
+3. Select state /province from the drop-down list
+4. Enter the Zip / postal code
+5. Click on the 'Estimate shipping' button
+
+**Actual Result:** The shipping cost is not calculated when clicking on the 'Estimate shipping' button
+
+**Expected Result:** The shipping cost is calculated when clicking on the 'Estimate shipping' button","0"
+"G21-142","group2.1","","Checkout page: There are no values until 2022 in the 'Expiration date' drop-down list when filling 'Payment Information'","natkona123","24 Nov 2022","24 Nov 2022",,"Normal","Bug","Open","Unassigned","Unscheduled",,"""Windows 10 Enterprise 64-bit Google Chrome 107.0.5304.63""","No no qase tc # (only for bug)","**STR:**
+
+1. Open the Checkout page <https://demowebshop.tricentis.com/onepagecheckout>
+2. Select an address from the drop-down list on the 'Billing Address' page then Click 'Continue' button
+3. Select a shipping address from the drop-down list on the 'Shipping Address' page then Click 'Continue' button
+4. Select the delivery method by clicking on the desired radio button on the 'Shipping Method' page then Click 'Continue' button
+5. Select the payment method Credit Card by clicking on the radio button on the  'Payment Method' page then Click 'Continue' button
+6. Select a year from the drop-down list on the ""Payment Information"" page
+
+**Actual Result:** There are no values until 2022 in the 'Expiration date' drop-down list when filling 'Payment Information'
+
+**Expected Result:** The user can use a card issued before 2022","0"
+"G21-137","group2.1","","Jewelry page: The 'Add to cart' button is missing under the item","natkona123","23 Nov 2022","23 Nov 2022",,"Normal","Bug","Open","Unassigned","Unscheduled",,"""Windows 10 Enterprise 64-bit Google Chrome 107.0.5304.63""","No no qase tc # (only for bug)","**STR:**
+
+1. Open the Jewelry page <https://demowebshop.tricentis.com/jewelry>
+
+**Actual Result:** The 'Add to cart' button is missing under the item
+
+**Expected Result:** There is 'Add to cart' button under each product","0"
+"G21-87","group2.1","","Main Page: The side dropdown hamburger-menu contains the 'Home' button","natkona123","6 Nov 2022","6 Nov 2022",,"Minor","Bug","Open","Unassigned","Unscheduled",,"""Windows 10 Enterprise 64-bit Google Chrome 107.0.5304.63""","No no qase tc # (only for bug)","**STR:**
+
+1. Open the Main Page <https://demo.guru99.com/telecom/index.html>
+2. Click on the dropdown hamburger-menu
+
+**Actual Result:** The side dropdown hamburger-menu contains the 'Home' button 
+
+**Expected Result:** The Button 'Home' on the side dropdown hamburger-menu should not be","0"
+"G21-86","group2.1","","Address: The message 'Cyrillic are not allowed' does not appear when entering Cyrillic","natkona123","6 Nov 2022","6 Nov 2022",,"Normal","Bug","Open","Unassigned","Unscheduled",,"""Windows 10 Enterprise 64-bit Google Chrome 107.0.5304.63""","No no qase tc # (only for bug)","**STR:**
+
+1. Open the Main Page <https://demo.guru99.com/telecom/index.html>
+2. Click 'Add Customer' button
+3. Click on the field 'Address'
+4. Enter a value in the field 'Address' consisting of cyrillic letters
+
+**Actual Result:** The message 'Cyrillic are not allowed' does not appear when entering Cyrillic
+
+**Expected Result:** The message 'Cyrillic are not allowed' appears when entering Cyrillic","0"
+"G21-85","group2.1","","Email: When entering Cyrillic the message 'Email-ID is not valid' appears","natkona123","6 Nov 2022","6 Nov 2022",,"Minor","Bug","Open","Unassigned","Unscheduled",,"""Windows 10 Enterprise 64-bit Google Chrome 107.0.5304.63""","No no qase tc # (only for bug)","**STR:**
+
+1. Open the Main Page <https://demo.guru99.com/telecom/index.html>
+2. Click 'Add Customer' button
+3. Click on the field 'Email'
+4. Enter a value in the field 'Email' consisting of cyrillic letters
+
+**Actual Result:** When entering Cyrillic the message 'Email-ID is not valid' appears
+
+**Expected Result:** When entering Cyrillic the message 'Email is not valid' appears","0"
+"G21-7","group2.1","","Main Page: The Button 'Pay Billing' has an incorrect description","natkona123","5 Nov 2022","6 Nov 2022",,"Normal","Bug","Open","Unassigned","Unscheduled",,"""Windows 10 Enterprise 64-bit Google Chrome 107.0.5304.63""","No no qase tc # (only for bug)","**STR:**
+
+1. Open the Main Page (<https://demo.guru99.com/telecom/index.html>);
+
+**Actual Result:** The Button 'Pay Billing' has an incorrect description
+
+**Expected Result:** The Button 'Pay Billing' has a correct description","0"
+"G21-78","group2.1","","Main Page: The Button 'Add Tariff Plan' has an incorrect description","natkona123","6 Nov 2022","6 Nov 2022",,"Normal","Bug","Open","Unassigned","Unscheduled",,"""Windows 10 Enterprise 64-bit Google Chrome 107.0.5304.63""","No no qase tc # (only for bug)","**STR:**
+
+1. Open the Main Page (<https://demo.guru99.com/telecom/index.html>);
+
+**Actual Result:** The Button 'Add Tariff Plan' has an incorrect description
+
+**Expected Result:** The Button 'Add Tariff Plan' has a correct description","0"
+"G21-79","group2.1","","Main Page: The Button 'Add Tariff Plan to Customer' has an incorrect description","natkona123","6 Nov 2022","6 Nov 2022",,"Normal","Bug","Open","Unassigned","Unscheduled",,"""Windows 10 Enterprise 64-bit Google Chrome 107.0.5304.63""","No no qase tc # (only for bug)","**STR:**
+
+1. Open the Main Page (<https://demo.guru99.com/telecom/index.html>);
+
+**Actual Result:** The Button 'Add Tariff Plan to Customer' has an incorrect description
+
+**Expected Result:** The Button 'Add Tariff Plan to Customer' has a correct description","0"
+"G21-76","group2.1","","Main Page: The Button 'Add Customer' has an incorrect description","natkona123","6 Nov 2022","6 Nov 2022",,"Normal","Bug","Open","Unassigned","Unscheduled",,"""Windows 10 Enterprise 64-bit Google Chrome 107.0.5304.63""","No no qase tc # (only for bug)","**STR:**
+
+1. Open the Main Page (<https://demo.guru99.com/telecom/index.html>);
+
+**Actual Result:** The Button 'Add Customer' has an incorrect description
+
+**Expected Result:** The Button 'Add Customer' has a correct description","0"
+"G21-66","group2.1","","Mobile number: The message ""Mobile must not be blank"" does not appear when clicking on the ""Submit"" button","natkona123","6 Nov 2022","6 Nov 2022",,"Minor","Bug","Open","Unassigned","Unscheduled",,"""Windows 10 Enterprise 64-bit Google Chrome 107.0.5304.63""","No no qase tc # (only for bug)","**STR:**
+
+1. Open the Main Page <https://demo.guru99.com/telecom/index.html>
+2. Click 'Add Customer' button
+3. Fill in all fields except Mobile number with valid data
+4. Click on the Submit button
+
+**Actual Result:** The message ""Mobile must not be blank"" does not appear when clicking on the ""Submit"" button
+
+**Expected Result:** The message ""Mobile must not be blank"" appears when you click on the ""Submit"" button","0"
+"G21-65","group2.1","","Address: The special character 'comma' is not allowed to be entered in the field","natkona123","6 Nov 2022","6 Nov 2022",,"Minor","Bug","Open","Unassigned","Unscheduled",,"""Windows 10 Enterprise 64-bit Google Chrome 107.0.5304.63""","No no qase tc # (only for bug)","**STR:**
+
+1. Open the Main Page <https://demo.guru99.com/telecom/index.html>
+2. Click 'Add Customer' button
+3. Click on the field 'Address'
+4. Enter a value in the field 'Address' consisting of special character 'comma'
+
+**Actual Result:** The special character 'comma' is not allowed to be entered in the field
+
+**Expected Result:** The special character 'comma' is allowed to be entered in the field","0"
+"G21-64","group2.1","","Address: The special character 'dot' is not allowed to be entered in the field","natkona123","6 Nov 2022","6 Nov 2022",,"Minor","Bug","Open","Unassigned","Unscheduled",,"""Windows 10 Enterprise 64-bit Google Chrome 107.0.5304.63""","No no qase tc # (only for bug)","**STR:**
+
+1. Open the Main Page <https://demo.guru99.com/telecom/index.html>
+2. Click 'Add Customer' button
+3. Click on the field 'Address'
+4. Enter a value in the field 'Address' consisting of special character 'dot'
+
+**Actual Result:** The special character 'dot' is not allowed to be entered in the field
+
+**Expected Result:** The special character 'dot' is allowed to be entered in the field","0"
+"G21-47","group2.1","","Last Name: When entering Cyrillic the message 'Numbers are not allowed' appears","natkona123","6 Nov 2022","6 Nov 2022",,"Minor","Bug","Open","Unassigned","Unscheduled",,"""Windows 10 Enterprise 64-bit Google Chrome 107.0.5304.63""","No no qase tc # (only for bug)","**STR:**
+
+1. Open the Main Page <https://demo.guru99.com/telecom/index.html>
+2. Click 'Add Customer' button
+3. Click on the field 'Last Name'
+4. Enter a value in the field 'Last Name' consisting of cyrillic letters
+
+**Actual Result:** When entering Cyrillic the message 'Numbers are not allowed' appears
+
+**Expected Result:** When entering Cyrillic the message 'Cyrillic are not allowed' appears","0"
+"G21-41","group2.1","","Add Customer page:   Required fields have not the label","natkona123","6 Nov 2022","6 Nov 2022",,"Minor","Bug","Open","Unassigned","Unscheduled",,"""Windows 10 Enterprise 64-bit Google Chrome 107.0.5304.63""","No no qase tc # (only for bug)","**STR:**
+
+1. Open the Main Page <https://demo.guru99.com/telecom/index.html>
+2. Click 'Add Customer' button
+
+**Actual Result:** Required fields have not the label
+
+**Expected Result:** Required fields have the label","0"
+"G21-34","group2.1","","First Name: When entering Cyrillic the message 'Numbers are not allowed' appears","natkona123","6 Nov 2022","6 Nov 2022",,"Minor","Bug","Open","Unassigned","Unscheduled",,"""Windows 10 Enterprise 64-bit Google Chrome 107.0.5304.63""","No no qase tc # (only for bug)","**STR:**
+
+1. Open the Main Page <https://demo.guru99.com/telecom/index.html>
+2. Click 'Add Customer' button
+3. Click on the field 'First Name'
+4. Enter a value in the field 'First Name' consisting of cyrillic letters
+
+**Actual Result:** When entering Cyrillic the message 'Numbers are not allowed' appears
+
+**Expected Result:** When entering Cyrillic the message 'Cyrillic are not allowed' appears","0"
+"G21-9","group2.1","","Add Customer page: Required fields are not marked with a special symbol *","natkona123","6 Nov 2022","6 Nov 2022",,"Normal","Bug","Open","Unassigned","Unscheduled",,"""Windows 10 Enterprise 64-bit Google Chrome 107.0.5304.63""","No no qase tc # (only for bug)","**STR:**
+
+1. Open the Main Page <https://demo.guru99.com/telecom/index.html>
+2. Click 'Add Customer' button
+
+**Actual Result:** Required fields are not marked with a special symbol \*
+
+**Expected Result:** Required fields are marked with a special symbol \*","0"
+"G21-8","group2.1","","Main Page: The Button 'Add Tariff Plans' on the side dropdown hamburger-menu has incorrect name","natkona123","5 Nov 2022","6 Nov 2022",,"Minor","Bug","Open","Unassigned","Unscheduled",,"""Windows 10 Enterprise 64-bit Google Chrome 107.0.5304.63""","No no qase tc # (only for bug)","**STR:**
+
+1. Open the Main Page <https://demo.guru99.com/telecom/index.html>
+2. Click on the dropdown hamburger-menu
+
+**Actual Result:** The Button 'Add Tariff Plans' on the side dropdown hamburger-menu has incorrect name
+
+**Expected Result:** The correct name button is 'Add Tariff Plan'","0"
